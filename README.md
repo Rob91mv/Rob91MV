@@ -12,13 +12,13 @@
 
 <br><br>
 
-- :University: I am a **Master of Business Information Systems** `student` at [Torrens University](https://www.torrens.edu.au/).
-- :Trophy: `SAS` Hackathon 2024 Contest Winner, `AWS` Certified Cloud Practitioner (CLF-C02) certification.
-- :Technologist: I love using Data Analytics solution for 'business data challenges and forecasting'.
-- :Bachelor: I’m currently learning `Computer Science` and `Software Engineering`.
+- :school: I am a **Master of Business Information Systems** `student` at [Torrens University](https://www.torrens.edu.au/).
+- :trophy: `SAS` Hackathon 2024 Contest Winner, `AWS` Certified Cloud Practitioner (CLF-C02) certification.
+- :technologist: I love using Data Analytics solution for 'business data challenges and forecasting'.
+- :computer: I’m currently learning `Business Analytics` and `Information Systems`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity` as a Data Analyst, Data Scientist, Technical Business Analyst.
-- :Next: Certification in Microsoft Power BI Data Analyst Professional Certificate.
+- ⤴️ Certification in Microsoft Power BI Data Analyst Professional Certificate, Salesforce Business Analyst certificate.
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
